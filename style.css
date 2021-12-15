@@ -1,0 +1,19 @@
+body {
+background:rgb(228, 83, 208) ;
+color: rgb(106, 182, 245);
+}
+.heading{
+    width: 80%;
+    font-size: large;
+}
+.name_of_family{
+    color: rgb(249, 250, 252);
+}
+#camera{
+    border: #f49e4c
+    width: 350px;
+    height: 300px;
+}
+#result_family,#acurrecy_family{
+color: rgb(43, 223, 118) dashed 2px;
+}
